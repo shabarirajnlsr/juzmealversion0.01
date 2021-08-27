@@ -1,0 +1,14 @@
+.jz-carousal-container {
+    padding: 20px 60px 20px 60px;
+    overflow: hidden !important;
+    z-index: 1000;
+}
+.jz-carousal-inner {
+    padding: 0 15px;
+    overflow: hidden !important;
+}
+.jz-food-pick-container {
+    margin: 0 auto 40px auto;
+    width: 970px;
+    overflow: hidden !important;
+}

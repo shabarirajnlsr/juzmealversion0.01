@@ -1,0 +1,25 @@
+.leftheadernavbar img{
+     margin-top: 10px;
+     margin-left: 120px;
+     height: 30px;
+}
+.headernavbar{
+     display: flex;
+     justify-content: space-between;
+}
+.rightheadernavbar{
+     display: flex;
+     margin-right: 70px;
+}
+.rightheadernavbar .iconsymbol{
+     margin-right: 35px;
+     margin-top: 10px;
+}
+.headernavbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: snow;
+    height: 60px;
+}

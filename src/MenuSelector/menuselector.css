@@ -1,0 +1,30 @@
+.preference-title {
+    color: #FCAE18;
+    font-size: 23px;    
+}
+.preference-title span {
+    color: #053830
+}
+.preference-card {
+    margin-left: 40px;
+    width: 280px;
+    padding: 10px; 
+    border: 1px #d4d4d5 solid; 
+    border-radius: 8px;
+}
+.menu-selector {
+    display: flex;
+    overflow: hidden;
+}
+.preference-text {
+    color: #FCAE18;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+}
+.checkbox-label {
+    float: left;
+    margin-right: 20px;   
+}
+.checker-container {
+    overflow: hidden;
+}

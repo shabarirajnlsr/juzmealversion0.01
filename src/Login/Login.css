@@ -1,0 +1,55 @@
+/* already login css style */
+.loginpage{
+     display: flex;
+     justify-content: space-evenly;
+}
+.loginname{
+     text-align: center;
+     padding: 20px;
+     margin: 220px auto;
+     border-radius: 5px;
+}
+.loginname input{
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-bottom-color: #db3438;
+}
+.loginbutton{
+     background-color: #db3438;
+     color: white;
+     padding: 5px;
+     border-radius: 3px;
+}
+.loginbutton:hover{
+     background-color: rgb(44 44 44);
+     cursor: pointer;
+}
+.loginname label{
+     font-size: 20px;
+}
+
+/* new login css styles */
+
+.newlogin{
+     text-align: center;
+     padding: 20px;
+     margin: 210px auto;
+}
+.newlogin input{
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-bottom-color: #db3438;
+     
+}
+.newlogin button{
+     background-color: #db3438;
+     color: white;
+     padding: 5px;
+     border-radius: 3px;
+}
+.newlogin button:hover{
+     background-color: rgb(44 44 44);
+     cursor: pointer;
+}
